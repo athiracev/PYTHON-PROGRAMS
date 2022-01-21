@@ -19,5 +19,5 @@ class Bank:
 b=Bank(1001,"aru","savings",3000)
 damount=float(input("enter the amount to be deposited:"))
 print("account balance:",b.deposit(damount))
-wamount=float(input("enter the amount to be withdrawn:"))
+wamount=float(input("enter the amount to withdraw:"))
 print("account balance:",b.withdraw(wamount))
