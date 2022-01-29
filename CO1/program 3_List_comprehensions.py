@@ -13,8 +13,8 @@ print(square)
 
 # (c) Form a list of vowels selected from a given word
 
-word="english"
-vowels="aeiou"
+word="PredictableENGLISHMalayalam"
+vowels="AaEeIiOoUu"
 newlist=[x for x in word if x in vowels]
 print(newlist)
 
