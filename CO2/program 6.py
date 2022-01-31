@@ -1,4 +1,4 @@
-#Count the number of charecters in a string
+#Count the number of characters in a string
 
 
 str = input("Enter a string: ")
