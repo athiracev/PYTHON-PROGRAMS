@@ -30,7 +30,6 @@ for i in range(1000,10000,1):
 #         num=int(num/10)
 #     if flag==0 and math.sqrt(i) % 1 == 0:
 #         perfect.append(i)
-#
 # print("The list of perfect square numbers are:",perfect)
 
 # method 3
